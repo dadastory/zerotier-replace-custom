@@ -76,3 +76,4 @@ if errorlevel 1 (
 echo.
 echo ===== 更新完成：%DEST_DIR%\planet =====
 pause
+
